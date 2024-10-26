@@ -29,7 +29,7 @@ End the program
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed..
 
 
 
