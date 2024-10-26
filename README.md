@@ -18,6 +18,13 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+    int
+    ad
+    as
+    as
+# OUTPUT
+![image](<Screenshot 2024-10-20 142835.png>)
+
 
 
 
