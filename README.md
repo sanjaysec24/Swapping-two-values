@@ -32,10 +32,7 @@ b=temp
 print("Swapped values are:",a,b)
 ```
 # OUTPUT
-
-
-
-
+<img width="1349" height="945" alt="image" src="https://github.com/user-attachments/assets/eaa22ec1-e91d-4379-990c-ccc256594634" />
 
 ## RESULT:
 Thus the swapping of two values are successfully executed..
